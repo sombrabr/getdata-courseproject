@@ -59,6 +59,10 @@ You will have the following folder structure:
     |   |   |-- X_train.txt
     |   |   |-- y_train.txt 
 
+The script will create a file named `averages.txt`, in the same
+directory that it is run, with a tidy data containing the averages
+of the data set.
+
 ### Tidy Data preparation
 
 The script will read and process the files below (the *raw data*):
