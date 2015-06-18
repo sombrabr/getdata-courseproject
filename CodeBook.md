@@ -82,7 +82,7 @@ The script will do the following steps to create the tidy data:
    and standard deviation values, except for the _angle_ values;
 10. The average of each variable, grouped by the subject and
     activity, are calculated and saved in a file called 
-    `averages.dsv`, without the row names. The variables are
+    `averages.txt`, without the row names. The variables are
     separated by space in this file.
 
 Code book
