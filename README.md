@@ -9,7 +9,7 @@ human activity using a smartphone's accelerometer and gyroscope. This
 data was donated to the UCI's Machine Learning Repository on
 12/10/2012.
 
-See `CodeBook.md` for more information on how the raw data was
+See [`CodeBook.md`](CodeBook.md) for more information on how the raw data was
 transformed to a tidy data and the variables information.
 
 ### Running the script
